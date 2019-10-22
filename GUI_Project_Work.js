@@ -1,7 +1,7 @@
 /* The application displays images and videos from local directory or web. 
    Images are displayed inside cards with name and description which are editable. 
    User can add new images to the carousel by selecting images from local files, giving URL address or drag and drop the image. 
-   If the image if from the web it has an option to download the image in the card. The application has an app bar with settings menu. 
+   If the image is from the web it has an option to download the image in the card. The application has an app bar with settings menu. 
    In the menu user can alter the display of images, how many images are displayed at once, size of the images and change the color of the menu. 
    App bar also has undo and redo for the changes in the card heading and description. 
    Keyboard navigation is also supported in the carousel.
